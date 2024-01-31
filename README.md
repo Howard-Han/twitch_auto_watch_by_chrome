@@ -1,0 +1,2 @@
+# twitch_auto_watch_by_chrome
+運用Python selenium套件與Twitch API，實現用Chrome自動看指定Twitch實況主的實況
